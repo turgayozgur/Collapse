@@ -1,0 +1,21 @@
+﻿Build started 02.11.2011 12:52:28.
+     1>Project "D:\yazılım\Nesneye Yönelik Programlama\Collapse\Collapse\Collapse.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Collapse.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Collapse.unsuccessfulbuild".
+         Touching "Debug\Collapse.lastbuildstate".
+     1>Done Building Project "D:\yazılım\Nesneye Yönelik Programlama\Collapse\Collapse\Collapse.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12
